@@ -1,3 +1,3 @@
-# Development build of bis-frontend
+# Build of bis-frontend (development)
 
-for github pages
+This is a development build of hnuti-brontosaurus/bis-frontend for github pages
