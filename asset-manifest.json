@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "https://dev.bis.livegraph.org/static/css/main.b0638981.css",
-    "main.js": "https://dev.bis.livegraph.org/static/js/main.25cbf0ff.js",
+    "main.js": "https://dev.bis.livegraph.org/static/js/main.995f1a2a.js",
     "static/css/565.291e7c60.chunk.css": "https://dev.bis.livegraph.org/static/css/565.291e7c60.chunk.css",
     "static/js/565.3420bac7.chunk.js": "https://dev.bis.livegraph.org/static/js/565.3420bac7.chunk.js",
     "static/js/770.902e3874.chunk.js": "https://dev.bis.livegraph.org/static/js/770.902e3874.chunk.js",
     "static/css/629.7496af6b.chunk.css": "https://dev.bis.livegraph.org/static/css/629.7496af6b.chunk.css",
-    "static/js/629.296c31ba.chunk.js": "https://dev.bis.livegraph.org/static/js/629.296c31ba.chunk.js",
+    "static/js/629.f0deaa99.chunk.js": "https://dev.bis.livegraph.org/static/js/629.f0deaa99.chunk.js",
     "static/js/498.7e221d11.chunk.js": "https://dev.bis.livegraph.org/static/js/498.7e221d11.chunk.js",
     "static/js/545.c6fce5c7.chunk.js": "https://dev.bis.livegraph.org/static/js/545.c6fce5c7.chunk.js",
     "static/js/513.7332220c.chunk.js": "https://dev.bis.livegraph.org/static/js/513.7332220c.chunk.js",
@@ -40,12 +40,12 @@
     "static/media/map-marker-selected.svg": "https://dev.bis.livegraph.org/static/media/map-marker-selected.4fd9196562155d40e8827c322a5b9a35.svg",
     "static/media/map-marker.svg": "https://dev.bis.livegraph.org/static/media/map-marker.66d5c448e3e3ddcbdab0422649df8907.svg",
     "main.b0638981.css.map": "https://dev.bis.livegraph.org/static/css/main.b0638981.css.map",
-    "main.25cbf0ff.js.map": "https://dev.bis.livegraph.org/static/js/main.25cbf0ff.js.map",
+    "main.995f1a2a.js.map": "https://dev.bis.livegraph.org/static/js/main.995f1a2a.js.map",
     "565.291e7c60.chunk.css.map": "https://dev.bis.livegraph.org/static/css/565.291e7c60.chunk.css.map",
     "565.3420bac7.chunk.js.map": "https://dev.bis.livegraph.org/static/js/565.3420bac7.chunk.js.map",
     "770.902e3874.chunk.js.map": "https://dev.bis.livegraph.org/static/js/770.902e3874.chunk.js.map",
     "629.7496af6b.chunk.css.map": "https://dev.bis.livegraph.org/static/css/629.7496af6b.chunk.css.map",
-    "629.296c31ba.chunk.js.map": "https://dev.bis.livegraph.org/static/js/629.296c31ba.chunk.js.map",
+    "629.f0deaa99.chunk.js.map": "https://dev.bis.livegraph.org/static/js/629.f0deaa99.chunk.js.map",
     "498.7e221d11.chunk.js.map": "https://dev.bis.livegraph.org/static/js/498.7e221d11.chunk.js.map",
     "545.c6fce5c7.chunk.js.map": "https://dev.bis.livegraph.org/static/js/545.c6fce5c7.chunk.js.map",
     "513.7332220c.chunk.js.map": "https://dev.bis.livegraph.org/static/js/513.7332220c.chunk.js.map",
@@ -57,6 +57,6 @@
   },
   "entrypoints": [
     "static/css/main.b0638981.css",
-    "static/js/main.25cbf0ff.js"
+    "static/js/main.995f1a2a.js"
   ]
 }
