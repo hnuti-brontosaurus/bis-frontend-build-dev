@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkbis_frontend=self.webpackChunkbis_frontend||[]).push([[605],{4089:function(e,n,i){i.r(n),i.d(n,{QualificationGuideDownload:function(){return f},default:function(){return u}});var r=i.p+"static/media/Pr\u016fvodce-kvalifikacemi.fda017465d497ee0e248.pdf",a="QualificationGuide_link__e9wHs",t=i(80184),f=function(e){var n=e.children;return(0,t.jsx)("a",{className:a,target:"_blank",rel:"noopener noreferrer",href:r,children:n})},u=f}}]);
+//# sourceMappingURL=605.4076b4d5.chunk.js.map
