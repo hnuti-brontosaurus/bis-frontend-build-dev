@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "https://dev.bis.livegraph.org/static/css/main.f34f3278.css",
-    "main.js": "https://dev.bis.livegraph.org/static/js/main.87d80dd4.js",
+    "main.css": "https://dev.bis.livegraph.org/static/css/main.74b1bd4e.css",
+    "main.js": "https://dev.bis.livegraph.org/static/js/main.3a96c180.js",
     "static/css/565.4512822b.chunk.css": "https://dev.bis.livegraph.org/static/css/565.4512822b.chunk.css",
     "static/js/565.a0691ddd.chunk.js": "https://dev.bis.livegraph.org/static/js/565.a0691ddd.chunk.js",
     "static/js/770.ce42ea4b.chunk.js": "https://dev.bis.livegraph.org/static/js/770.ce42ea4b.chunk.js",
@@ -41,8 +41,8 @@
     "static/media/map-marker-new.svg": "https://dev.bis.livegraph.org/static/media/map-marker-new.15a5e8b89f69de19fe393e6824a2f3d2.svg",
     "static/media/map-marker-selected.svg": "https://dev.bis.livegraph.org/static/media/map-marker-selected.4fd9196562155d40e8827c322a5b9a35.svg",
     "static/media/map-marker.svg": "https://dev.bis.livegraph.org/static/media/map-marker.66d5c448e3e3ddcbdab0422649df8907.svg",
-    "main.f34f3278.css.map": "https://dev.bis.livegraph.org/static/css/main.f34f3278.css.map",
-    "main.87d80dd4.js.map": "https://dev.bis.livegraph.org/static/js/main.87d80dd4.js.map",
+    "main.74b1bd4e.css.map": "https://dev.bis.livegraph.org/static/css/main.74b1bd4e.css.map",
+    "main.3a96c180.js.map": "https://dev.bis.livegraph.org/static/js/main.3a96c180.js.map",
     "565.4512822b.chunk.css.map": "https://dev.bis.livegraph.org/static/css/565.4512822b.chunk.css.map",
     "565.a0691ddd.chunk.js.map": "https://dev.bis.livegraph.org/static/js/565.a0691ddd.chunk.js.map",
     "770.ce42ea4b.chunk.js.map": "https://dev.bis.livegraph.org/static/js/770.ce42ea4b.chunk.js.map",
@@ -60,7 +60,7 @@
     "45.a29bcd90.chunk.js.map": "https://dev.bis.livegraph.org/static/js/45.a29bcd90.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f34f3278.css",
-    "static/js/main.87d80dd4.js"
+    "static/css/main.74b1bd4e.css",
+    "static/js/main.3a96c180.js"
   ]
 }
